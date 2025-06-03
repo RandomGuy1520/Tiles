@@ -1,5 +1,5 @@
-./Debug
-./Release
-./Tiles
-./x64
-./.vs/
+Debug
+Release
+Tiles
+x64
+.vs/
